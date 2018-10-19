@@ -1,0 +1,3 @@
+javac prototype/soundPlayer.java
+javac prototype/consolePrototype.java
+java prototype/consolePrototype
