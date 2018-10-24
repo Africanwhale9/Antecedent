@@ -1,3 +1,4 @@
 javac prototype/soundPlayer.java
 javac prototype/consolePrototype.java
-java prototype/consolePrototype
+javac prototype/playPrototype.java
+java prototype/playPrototype
